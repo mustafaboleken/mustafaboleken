@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/mustafa-boleken/" target="_blank">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mustafaboleken&count_private=true&show_icons=true&theme=vue"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaboleken&theme=vue&hide=tex,css"/>
+    </a>
+</p>
