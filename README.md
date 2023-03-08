@@ -1,11 +1,3 @@
-
-<p align="center"><img src="https://media.giphy.com/media/il49eQumsbadTznOH7/giphy.gif" width="210" height="210"  /></p>
-<p align="center">
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/mustafaboleken" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-
 ### 👨‍💻: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
