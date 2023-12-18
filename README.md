@@ -1,11 +1,12 @@
-### 👨‍💻: &nbsp;About Me :
+### 👨🏼‍💻 &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+Hello! I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey, passionate about crafting software solutions and exploring new technologies.
 
-- 🔭 I’m working as a Software Engineer and working on live streaming industrie.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I play piano and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mustafaboleken-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-boleken)
+- 📽️ Current Role: Software Engineer specializing in the live streaming industry.
+- 🔭 Professional Interests: Full Stack Development, Live Streaming Technologies.
+- 🌱 Learning Journey: Currently exploring Technical Content Writing to share knowledge and insights.
+- ⚡ Personal Pursuits: Outside of work, I enjoy playing the piano and staying updated with the latest tech trends.
+- 📫 Let's Connect: Feel free to reach out to me on: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mustafaboleken-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-boleken)
 
 ---
 
